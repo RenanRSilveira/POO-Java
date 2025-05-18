@@ -1,4 +1,4 @@
-package POO009a;
+package POO09a;
 
 import POO9a.classes.Pingpong;
 import POO9a.classes.VideoGame;

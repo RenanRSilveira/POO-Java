@@ -1,7 +1,7 @@
-package POO009;
+package POO09;
 
-import POO9.classes.Circulo;
-import POO9.classes.Quadrado;
+import POO09.classes.Circulo;
+import POO09.classes.Quadrado;
 
 public class App {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package POO009.classes;
+package POO09.classes;
 
 public class Circulo implements FiguraGeometrica {
     private int raio;

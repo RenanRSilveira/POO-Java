@@ -1,4 +1,4 @@
-package POO009a.classes;
+package POO09a.classes;
 
 public class VideoGame {
     private Jogo jogo;
