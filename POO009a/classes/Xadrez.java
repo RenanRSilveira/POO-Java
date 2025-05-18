@@ -1,4 +1,4 @@
-package POO9a.classes;
+package POO009a.classes;
 
 public class Xadrez implements Jogo {
 

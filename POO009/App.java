@@ -1,4 +1,4 @@
-package POO9;
+package POO009;
 
 import POO9.classes.Circulo;
 import POO9.classes.Quadrado;

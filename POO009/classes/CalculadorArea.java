@@ -1,4 +1,4 @@
-package POO9.classes;
+package POO009.classes;
 
 public class CalculadorArea {
     public double somarAreas(FiguraGeometrica quadrado, FiguraGeometrica circulo) {

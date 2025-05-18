@@ -1,4 +1,4 @@
-package POO7;
+package POO007;
 
 public class Pessoa {
     private String nome;

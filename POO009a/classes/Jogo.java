@@ -1,4 +1,4 @@
-package POO9a.classes;
+package POO009a.classes;
 
 public interface Jogo {
     public void fechar();

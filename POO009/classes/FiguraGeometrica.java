@@ -1,4 +1,4 @@
-package POO9.classes;
+package POO009.classes;
 
 public interface FiguraGeometrica {
     public double calcularArea();

@@ -1,4 +1,4 @@
-package POO9.classes;
+package POO009.classes;
 
 public class Quadrado implements FiguraGeometrica {
     private int lado;
