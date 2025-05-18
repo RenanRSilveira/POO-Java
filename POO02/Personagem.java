@@ -1,4 +1,4 @@
-package POO002;
+package POO02;
 
 public class Personagem {
     String nome;

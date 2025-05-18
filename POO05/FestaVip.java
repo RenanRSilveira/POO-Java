@@ -1,4 +1,4 @@
-package POO005;
+package POO05;
 
 public class FestaVip {
 

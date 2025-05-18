@@ -1,4 +1,4 @@
-package POO004.videos;
+package POO04.videos;
 
 public class Novela {
 

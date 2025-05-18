@@ -1,4 +1,4 @@
-package POO1;
+package POO01;
 
 public class Celular {
     String nome;
