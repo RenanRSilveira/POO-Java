@@ -1,4 +1,4 @@
-package POO5.exemplo;
+package POO005.exemplo;
 
 public class ContaNetflix {
     String resolucao, idioma;

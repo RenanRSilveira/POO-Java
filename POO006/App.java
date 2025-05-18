@@ -1,4 +1,4 @@
-package POO6;
+package POO006;
 
 public class App {
     public static void main(String[] args) {

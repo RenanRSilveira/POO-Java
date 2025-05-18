@@ -1,4 +1,4 @@
-package POO5.festas;
+package POO005.festas;
 
 public class FestaVip2 {
     int qtdCafe = 30;

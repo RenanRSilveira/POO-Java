@@ -1,4 +1,4 @@
-package POO4.gui;
+package POO004.gui;
 
 public class Janela {
 
