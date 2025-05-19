@@ -18,6 +18,9 @@ public class App {
         Product produto = new Product("Celular", 10);
         System.out.println(produto.name() + " " + produto.price());
         System.out.println(produto.toString());
+        produto.printNome();
+        System.out.println(Product.Mensagem_final);
+        Product.printMensagem();
 
     }
 }

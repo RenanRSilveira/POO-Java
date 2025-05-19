@@ -1,7 +1,7 @@
 package POO09a;
 
-import POO9a.classes.Pingpong;
-import POO9a.classes.VideoGame;
+import POO09a.classes.Pingpong;
+import POO09a.classes.VideoGame;
 
 public class App {
     public static void main(String[] args) {
