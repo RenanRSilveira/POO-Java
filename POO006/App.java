@@ -16,7 +16,10 @@ public class App {
         System.out.println();
 
         Product produto = new Product("Celular", 10);
+        Product produto1 = new Product("Celular", 10);
         System.out.println(produto.name() + " " + produto.price());
+        System.out.println(produto.hashCode());
+        System.out.println(produto1.hashCode());
         System.out.println(produto.toString());
         produto.printNome();
         System.out.println(Product.Mensagem_final);
