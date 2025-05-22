@@ -1,5 +1,5 @@
 # POO-Java
-Curso de Programação Orientada a Objetos na Academia dos Devs, em 2025!
+Curso de Programação Orientada a Objetos com Academia dos Devs, em 2025!
 
 Quero ver minha evolução.
 
