@@ -1,4 +1,4 @@
-package POO22;
+package POO22.List;
 
 import java.util.LinkedList;
 

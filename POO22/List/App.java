@@ -1,4 +1,4 @@
-package POO22;
+package POO22.List;
 
 public class App {
     public static void main(String[] args) {
