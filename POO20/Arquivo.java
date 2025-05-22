@@ -27,7 +27,7 @@ public class Arquivo {
         return texto;
     }
 
-    public void lerFile(String caminhoArquivo) {
+    public void readFile(String caminhoArquivo) {
         // -> Usar quando for um arquivo pequeno
         try {
             Path caminho = Paths.get(caminhoArquivo);
