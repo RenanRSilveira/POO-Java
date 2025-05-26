@@ -5,7 +5,7 @@ import java.util.*;
 public class App {
 
     public static void main(String[] args) {
-        HashSet<String> carros = new LinkedHashSet<>();
+        Set<String> carros = new LinkedHashSet<>();
 
         carros.add("HRV");
         carros.add("Polo");
@@ -22,7 +22,7 @@ public class App {
 
         while (it.hasNext()) {
             String a = it.next();
-            if (a == "Polo") {
+            if (a.equals("Polo")) {
                 it.remove();
             }
         }
