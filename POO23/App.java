@@ -3,7 +3,7 @@ package POO23;
 public class App {
     public static void main(String[] args) {
         /*  Record é uma classe que já inclui os Getters, além do .equals()
-         *  e o hashCode();, não temos os Setters.
+         *  e o hashCode(), não temos os Setters.
          *  No exemplo, a classe PessoaRecord() equivale a classe Pessoa();.
          * -> Limitações:
          *   .Os campos são implicitamente final, ou seja, não podem ser modificados após a criação.

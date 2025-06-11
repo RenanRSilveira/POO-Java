@@ -10,14 +10,9 @@ public class App {
         System.out.println(Matematica.calcularAreaQuadrado(2));
         System.out.println();
 
-        Carro ferrari = new Carro("Ferrari", 2025);
-        Carro fusca = new Carro("Fusca", 1975);
-        System.out.println(ferrari.anoCompra);
-        System.out.println(fusca.anoCompra);
         System.out.println(Carro.anoCompra);
 
-        ferrari.anoCompra = 2026;
-        System.out.println(fusca.anoCompra);
+        
 
     }
 }

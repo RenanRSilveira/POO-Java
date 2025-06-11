@@ -11,7 +11,7 @@ public class Apaga {
             escritor.write("Renan\n");
             
         } catch (Exception e) {
-            // TODO: handle exception
+           
         }
 
         try (BufferedReader leitor = new BufferedReader(new FileReader(caminho))) {
@@ -21,7 +21,7 @@ public class Apaga {
             }
 
         } catch (Exception e) {
-            // TODO: handle exception
+           
         }
 
 
